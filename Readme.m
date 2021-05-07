@@ -1,0 +1,5 @@
+-
++# NAMA : GIGIS ADE ARYANI 
++# KELAS : TI.19.C1
++UTS PENGOLAHAN CITRA 
++LINK YOUTUBE : https://youtu.be/bYzlOoXildc
